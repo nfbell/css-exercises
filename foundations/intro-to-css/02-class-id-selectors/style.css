@@ -1,5 +1,10 @@
 .odd {
     background-color: #db70c4;
     font-family: 'Veranda', 'DejaVu Sans', sans-serif;
-    
+
+}
+
+#second {
+    color: #0080ff;
+    font-size: 36px;
 }
